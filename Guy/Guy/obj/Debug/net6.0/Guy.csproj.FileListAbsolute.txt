@@ -1,0 +1,15 @@
+C:\Users\Tage\Documents\Code\HeadFirstC#\Guy\Guy\bin\Debug\net6.0\Guy.exe
+C:\Users\Tage\Documents\Code\HeadFirstC#\Guy\Guy\bin\Debug\net6.0\Guy.deps.json
+C:\Users\Tage\Documents\Code\HeadFirstC#\Guy\Guy\bin\Debug\net6.0\Guy.runtimeconfig.json
+C:\Users\Tage\Documents\Code\HeadFirstC#\Guy\Guy\bin\Debug\net6.0\Guy.dll
+C:\Users\Tage\Documents\Code\HeadFirstC#\Guy\Guy\bin\Debug\net6.0\ref\Guy.dll
+C:\Users\Tage\Documents\Code\HeadFirstC#\Guy\Guy\bin\Debug\net6.0\Guy.pdb
+C:\Users\Tage\Documents\Code\HeadFirstC#\Guy\Guy\obj\Debug\net6.0\Guy.csproj.AssemblyReference.cache
+C:\Users\Tage\Documents\Code\HeadFirstC#\Guy\Guy\obj\Debug\net6.0\Guy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tage\Documents\Code\HeadFirstC#\Guy\Guy\obj\Debug\net6.0\Guy.AssemblyInfoInputs.cache
+C:\Users\Tage\Documents\Code\HeadFirstC#\Guy\Guy\obj\Debug\net6.0\Guy.AssemblyInfo.cs
+C:\Users\Tage\Documents\Code\HeadFirstC#\Guy\Guy\obj\Debug\net6.0\Guy.csproj.CoreCompileInputs.cache
+C:\Users\Tage\Documents\Code\HeadFirstC#\Guy\Guy\obj\Debug\net6.0\Guy.dll
+C:\Users\Tage\Documents\Code\HeadFirstC#\Guy\Guy\obj\Debug\net6.0\ref\Guy.dll
+C:\Users\Tage\Documents\Code\HeadFirstC#\Guy\Guy\obj\Debug\net6.0\Guy.pdb
+C:\Users\Tage\Documents\Code\HeadFirstC#\Guy\Guy\obj\Debug\net6.0\Guy.genruntimeconfig.cache
