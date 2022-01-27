@@ -1,0 +1,16 @@
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\bin\Debug\SloppyJoes.exe.config
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\bin\Debug\SloppyJoes.exe
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\bin\Debug\SloppyJoes.pdb
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.csproj.AssemblyReference.cache
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\obj\Debug\MainWindow.g.cs
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\obj\Debug\App.g.cs
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes_MarkupCompile.cache
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes_MarkupCompile.lref
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\obj\Debug\MainWindow.baml
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.g.resources
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.Properties.Resources.resources
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.csproj.GenerateResource.cache
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.csproj.CoreCompileInputs.cache
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.exe
+C:\Users\Tage\Documents\Code\HeadFirstC#\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.pdb

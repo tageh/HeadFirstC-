@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7d902e24-080d-4e16-b492-232a492a825d": {
+      "ProjectGuid": "7d902e24-080d-4e16-b492-232a492a825d",
+      "DisplayName": "Elephants",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
