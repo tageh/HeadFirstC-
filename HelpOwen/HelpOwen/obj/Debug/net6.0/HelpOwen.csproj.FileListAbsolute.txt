@@ -1,0 +1,15 @@
+C:\Users\Tage\Documents\Code\HeadFirstC#\HelpOwen\HelpOwen\bin\Debug\net6.0\HelpOwen.exe
+C:\Users\Tage\Documents\Code\HeadFirstC#\HelpOwen\HelpOwen\bin\Debug\net6.0\HelpOwen.deps.json
+C:\Users\Tage\Documents\Code\HeadFirstC#\HelpOwen\HelpOwen\bin\Debug\net6.0\HelpOwen.runtimeconfig.json
+C:\Users\Tage\Documents\Code\HeadFirstC#\HelpOwen\HelpOwen\bin\Debug\net6.0\HelpOwen.dll
+C:\Users\Tage\Documents\Code\HeadFirstC#\HelpOwen\HelpOwen\bin\Debug\net6.0\ref\HelpOwen.dll
+C:\Users\Tage\Documents\Code\HeadFirstC#\HelpOwen\HelpOwen\bin\Debug\net6.0\HelpOwen.pdb
+C:\Users\Tage\Documents\Code\HeadFirstC#\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.csproj.AssemblyReference.cache
+C:\Users\Tage\Documents\Code\HeadFirstC#\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tage\Documents\Code\HeadFirstC#\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.AssemblyInfoInputs.cache
+C:\Users\Tage\Documents\Code\HeadFirstC#\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.AssemblyInfo.cs
+C:\Users\Tage\Documents\Code\HeadFirstC#\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.csproj.CoreCompileInputs.cache
+C:\Users\Tage\Documents\Code\HeadFirstC#\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.dll
+C:\Users\Tage\Documents\Code\HeadFirstC#\HelpOwen\HelpOwen\obj\Debug\net6.0\ref\HelpOwen.dll
+C:\Users\Tage\Documents\Code\HeadFirstC#\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.pdb
+C:\Users\Tage\Documents\Code\HeadFirstC#\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.genruntimeconfig.cache
