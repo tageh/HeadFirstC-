@@ -1,2 +1,6 @@
 
-HelpOwen/HelpOwen/bin/
+HelpOwen/HelpOwen/bin/*
+Guy/Guy/bin/*
+MatchGame/MatchGame/bin/*
+PickACardUI/PickACardUI/bin/*
+PickRandomCard/PickRandomCard/bin/*
