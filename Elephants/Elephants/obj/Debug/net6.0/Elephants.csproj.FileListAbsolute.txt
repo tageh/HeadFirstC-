@@ -1,0 +1,15 @@
+C:\Users\Tage\Documents\Code\HeadFirstC#\Elephants\Elephants\bin\Debug\net6.0\Elephants.exe
+C:\Users\Tage\Documents\Code\HeadFirstC#\Elephants\Elephants\bin\Debug\net6.0\Elephants.deps.json
+C:\Users\Tage\Documents\Code\HeadFirstC#\Elephants\Elephants\bin\Debug\net6.0\Elephants.runtimeconfig.json
+C:\Users\Tage\Documents\Code\HeadFirstC#\Elephants\Elephants\bin\Debug\net6.0\Elephants.dll
+C:\Users\Tage\Documents\Code\HeadFirstC#\Elephants\Elephants\bin\Debug\net6.0\ref\Elephants.dll
+C:\Users\Tage\Documents\Code\HeadFirstC#\Elephants\Elephants\bin\Debug\net6.0\Elephants.pdb
+C:\Users\Tage\Documents\Code\HeadFirstC#\Elephants\Elephants\obj\Debug\net6.0\Elephants.csproj.AssemblyReference.cache
+C:\Users\Tage\Documents\Code\HeadFirstC#\Elephants\Elephants\obj\Debug\net6.0\Elephants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tage\Documents\Code\HeadFirstC#\Elephants\Elephants\obj\Debug\net6.0\Elephants.AssemblyInfoInputs.cache
+C:\Users\Tage\Documents\Code\HeadFirstC#\Elephants\Elephants\obj\Debug\net6.0\Elephants.AssemblyInfo.cs
+C:\Users\Tage\Documents\Code\HeadFirstC#\Elephants\Elephants\obj\Debug\net6.0\Elephants.csproj.CoreCompileInputs.cache
+C:\Users\Tage\Documents\Code\HeadFirstC#\Elephants\Elephants\obj\Debug\net6.0\Elephants.dll
+C:\Users\Tage\Documents\Code\HeadFirstC#\Elephants\Elephants\obj\Debug\net6.0\ref\Elephants.dll
+C:\Users\Tage\Documents\Code\HeadFirstC#\Elephants\Elephants\obj\Debug\net6.0\Elephants.pdb
+C:\Users\Tage\Documents\Code\HeadFirstC#\Elephants\Elephants\obj\Debug\net6.0\Elephants.genruntimeconfig.cache

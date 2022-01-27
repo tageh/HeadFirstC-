@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tage\\Documents\\Code\\HeadFirstC#\\Guy\\Guy\\Guy.csproj": {}
+    "C:\\Users\\Tage\\Documents\\Code\\HeadFirstC#\\Elephants\\Elephants\\Elephants.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tage\\Documents\\Code\\HeadFirstC#\\Guy\\Guy\\Guy.csproj": {
+    "C:\\Users\\Tage\\Documents\\Code\\HeadFirstC#\\Elephants\\Elephants\\Elephants.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tage\\Documents\\Code\\HeadFirstC#\\Guy\\Guy\\Guy.csproj",
-        "projectName": "Guy",
-        "projectPath": "C:\\Users\\Tage\\Documents\\Code\\HeadFirstC#\\Guy\\Guy\\Guy.csproj",
+        "projectUniqueName": "C:\\Users\\Tage\\Documents\\Code\\HeadFirstC#\\Elephants\\Elephants\\Elephants.csproj",
+        "projectName": "Elephants",
+        "projectPath": "C:\\Users\\Tage\\Documents\\Code\\HeadFirstC#\\Elephants\\Elephants\\Elephants.csproj",
         "packagesPath": "C:\\Users\\Tage\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tage\\Documents\\Code\\HeadFirstC#\\Guy\\Guy\\obj\\",
+        "outputPath": "C:\\Users\\Tage\\Documents\\Code\\HeadFirstC#\\Elephants\\Elephants\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tage\\AppData\\Roaming\\NuGet\\NuGet.Config",
