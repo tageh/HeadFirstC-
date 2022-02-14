@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05400701-68cb-4e15-a28b-24ab045c3bc1": {
+      "ProjectGuid": "05400701-68cb-4e15-a28b-24ab045c3bc1",
+      "DisplayName": "SloppyJoesBlazor",
+      "ColorIndex": 0
+    },
+    "3e3a567d-26fc-41a8-a85b-611fdd88811f": {
+      "ProjectGuid": "3e3a567d-26fc-41a8-a85b-611fdd88811f",
+      "DisplayName": "SloppyJoes",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
