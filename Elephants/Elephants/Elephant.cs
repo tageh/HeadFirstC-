@@ -8,25 +8,25 @@ namespace Elephants
 {
     class Elephant
     {
-        private int _earSize;
-        private string _name;
+        //private int earSize;
+        //private string name;
 
         public Elephant(string name, int earSize)
         {
-            this._name = name;
-            this._earSize = earSize;
+            this.Name = name;
+            this.EarSize = earSize;
         }
 
         public void WhoAmI()
         {
-            Console.WriteLine("My name is " + _name + ".");
-            Console.WriteLine("My ears are " + _earSize + " inches tall.");
+            Console.WriteLine("My name is " + Name + ".");
+            Console.WriteLine("My ears are " + EarSize + " inches tall.");
         }
 
         public void HearMessage(string message, Elephant whoSaidIt)
         {
-            Console.WriteLine(_name + " heard a message");
-            Console.WriteLine(whoSaidIt._name + " said this: " + message);
+            Console.WriteLine(Name + " heard a message");
+            Console.WriteLine(whoSaidIt.Name + " said this: " + message);
         }
 
         public void SpeakTo(Elephant whoToTalkTo, string message)
@@ -34,14 +34,7 @@ namespace Elephants
             whoToTalkTo.HearMessage(message, this);
         }
 
-        public int EarSize
-        {
-            get { return _earSize; }
-            set { _earSize = value; }
-        }
-        public string Name {
-            get { return _name; }
-            set { _name = value; } 
-        }
+        public int EarSize{get; set;}
+        public string Name {get; set;}
     }
 }

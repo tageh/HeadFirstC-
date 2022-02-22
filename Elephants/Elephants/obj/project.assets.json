@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tage\\.nuget\\packages\\": {}
+    "C:\\Users\\someo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tage\\Documents\\Code\\HeadFirstC#\\Elephants\\Elephants\\Elephants.csproj",
+      "projectUniqueName": "C:\\Users\\someo\\Documents\\Code\\HeadFirstC-\\Elephants\\Elephants\\Elephants.csproj",
       "projectName": "Elephants",
-      "projectPath": "C:\\Users\\Tage\\Documents\\Code\\HeadFirstC#\\Elephants\\Elephants\\Elephants.csproj",
-      "packagesPath": "C:\\Users\\Tage\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tage\\Documents\\Code\\HeadFirstC#\\Elephants\\Elephants\\obj\\",
+      "projectPath": "C:\\Users\\someo\\Documents\\Code\\HeadFirstC-\\Elephants\\Elephants\\Elephants.csproj",
+      "packagesPath": "C:\\Users\\someo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\someo\\Documents\\Code\\HeadFirstC-\\Elephants\\Elephants\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tage\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\someo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
