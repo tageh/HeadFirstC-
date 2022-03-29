@@ -19,3 +19,9 @@ Hi-Lo-Game/.vs/Hi-Lo-Game/v17/
 Hi-Lo-Game/Hi-Lo-Game/bin/Debug/net6.0/
 
 Hi-Lo-Game/.vs/Hi-Lo-Game/
+
+*.v2
+
+*.v1
+
+BeehiveManagementSystem/.vs/BeehiveManagementSystem/v17/
